@@ -1,0 +1,13 @@
+C:\Users\eltia\source\repos\ConstruEncap\ConstruEncap\bin\Debug\netcoreapp3.1\ConstruEncap.exe
+C:\Users\eltia\source\repos\ConstruEncap\ConstruEncap\bin\Debug\netcoreapp3.1\ConstruEncap.deps.json
+C:\Users\eltia\source\repos\ConstruEncap\ConstruEncap\bin\Debug\netcoreapp3.1\ConstruEncap.runtimeconfig.json
+C:\Users\eltia\source\repos\ConstruEncap\ConstruEncap\bin\Debug\netcoreapp3.1\ConstruEncap.runtimeconfig.dev.json
+C:\Users\eltia\source\repos\ConstruEncap\ConstruEncap\bin\Debug\netcoreapp3.1\ConstruEncap.dll
+C:\Users\eltia\source\repos\ConstruEncap\ConstruEncap\bin\Debug\netcoreapp3.1\ConstruEncap.pdb
+C:\Users\eltia\source\repos\ConstruEncap\ConstruEncap\obj\Debug\netcoreapp3.1\ConstruEncap.csprojAssemblyReference.cache
+C:\Users\eltia\source\repos\ConstruEncap\ConstruEncap\obj\Debug\netcoreapp3.1\ConstruEncap.AssemblyInfoInputs.cache
+C:\Users\eltia\source\repos\ConstruEncap\ConstruEncap\obj\Debug\netcoreapp3.1\ConstruEncap.AssemblyInfo.cs
+C:\Users\eltia\source\repos\ConstruEncap\ConstruEncap\obj\Debug\netcoreapp3.1\ConstruEncap.csproj.CoreCompileInputs.cache
+C:\Users\eltia\source\repos\ConstruEncap\ConstruEncap\obj\Debug\netcoreapp3.1\ConstruEncap.dll
+C:\Users\eltia\source\repos\ConstruEncap\ConstruEncap\obj\Debug\netcoreapp3.1\ConstruEncap.pdb
+C:\Users\eltia\source\repos\ConstruEncap\ConstruEncap\obj\Debug\netcoreapp3.1\ConstruEncap.genruntimeconfig.cache
