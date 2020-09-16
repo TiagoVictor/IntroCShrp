@@ -8,7 +8,6 @@ namespace ConstruEncap {
         //Em c# quando colocamos os atributos como private devem ser feitos com esse nome
         //Auto Propertie é usada na declaraçao do atributo ja realizando assim o Get e o Set da classe
         //Auto Propertie é recomendada caso o atributo nao possua uma logica a ser realizada no seu get/set.
-        //Só queria subir isso no git velho pelo amor de deus me deixa porffavor.
 
         public string Nome { get; set; }
         public double Preco { get; private set; }
